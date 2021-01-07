@@ -5,8 +5,9 @@ My name is Mahkameh Torabi. I am majoring computer science at **UC San Diego**. 
 ![Profile Picture](https://avatars2.githubusercontent.com/u/59551192?s=400&u=f57c494334a7438ed57702fb493f57fa0f81bd11&v=4)
 
 
+##  We can store "Hello, Github!" as a variable called string and then we easily print it:
 ```
-gethub = "Hello, Github!"
+string = "Hello, Github!"
 print(github)
 ```
 
