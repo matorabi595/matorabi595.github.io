@@ -14,7 +14,7 @@ One of my favorite places at UC San Diego is the Biomedical Library. It is close
 
 ## My Favorite Language
 
-My favorite programming language is python! It is very user friendly and easy to learn. Check this out
+My favorite programming language is python! It is very user friendly and easy to learn. Check this out:
 
 
 We can store "Hello, Github!" as a variable called string and then we can easily print string:
