@@ -5,7 +5,7 @@ My name is Mahkameh Torabi. I am a computer science major at **UC San Diego**. M
 ![Profile Picture](https://avatars2.githubusercontent.com/u/59551192?s=400&u=f57c494334a7438ed57702fb493f57fa0f81bd11&v=4)
 
 
-We can store "Hello, Github!" as a variable called string and then we easily print it:
+We can store "Hello, Github!" as a variable called string and then we easily print github:
 
 
 ```
@@ -20,7 +20,7 @@ Hello, Github!
 ```
 
 
-## My Favorite Websites That I Highly Recommand For People Who Like to Learn How to Code
+## These are my favorite websites that I highly recommend for people who want to learn how to code
 [Hackerrank](https://www.hackerrank.com/domains/python)
 
 [Codecademy](https://www.codecademy.com/learn/learn-python)
