@@ -5,9 +5,8 @@ My name is Mahkameh Torabi and I study Computer Science at UC San Diego.
 ![Profile Picture](https://avatars2.githubusercontent.com/u/59551192?s=400&u=f57c494334a7438ed57702fb493f57fa0f81bd11&v=4)
 
 
-One of my favorite places at UC San Diego is the Biomedical Library. It is close to where I work, which is the Leitchtag building. Biomedical Library is a quite place to study and you also can borrow a book that you need to study. 
+One of my favorite places at UC San Diego is the Biomedical Library. It is close to where I work, which is the Leitchtag building. Biomedical Library is a quite place to study and you also can borrow a book that you need to study. Here's a picture of it:
 
-Biomedical Library
 
 ![Biomedical Library](https://pfeifferpartners.com/wp-content/uploads/2016/03/ucsd-biomed-ext-4-M.jpg)
 
