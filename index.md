@@ -7,7 +7,7 @@ My name is Mahkameh Torabi. I am a Computer Science major at UC San Diego. One o
 
 Leichtag Building
 
-![Leichtag Building](http://repro.ucsd.edu/SiteAssets/Images/Leichtag-Large-adjusted%20(525x344).jpg)
+![Leichtag Building](http://repro.ucsd.edu/SiteAssets/Images/Leichtag-Large-adjusted%20(525x344).jpg))
 
 
 
