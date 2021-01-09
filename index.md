@@ -43,7 +43,7 @@ Hello, Github!
 
 
 ### My Favorite Book
-**Python Tricks: The Book **A Buffet of Awesome Python Features**
+**Python Tricks: The Book **A Buffet of Awesome Python Features **
 
 By **Dan Bader**
 
