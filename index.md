@@ -33,9 +33,9 @@ Hello, Github!
 
 
 ## These are my favorite websites that I highly recommend for people who want to learn how to code
-[Hackerrank](https://www.hackerrank.com/domains/python)
+* [Hackerrank](https://www.hackerrank.com/domains/python)
 
-[Codecademy](https://www.codecademy.com/learn/learn-python)
+* [Codecademy](https://www.codecademy.com/learn/learn-python)
 
 
 ## My Favorite Book
