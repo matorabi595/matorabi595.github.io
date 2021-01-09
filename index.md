@@ -52,3 +52,4 @@ By **Dan Bader**
 - [x] Installing Visual Studio Code and Extensions
 - [x] (Re)Familiarizing Ourselves with Git
 - [x] Using Markdown
+- [x] Submit to canvas
