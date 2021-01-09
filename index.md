@@ -1,4 +1,4 @@
-## Welcome to My Page
+### Welcome to My Page
 
 My name is Mahkameh Torabi and I study Computer Science at UC San Diego.
 
@@ -9,6 +9,10 @@ One of my favorite places at UC San Diego is the Biomedical Library. It is close
 
 
 ![Biomedical Library](https://pfeifferpartners.com/wp-content/uploads/2016/03/ucsd-biomed-ext-4-M.jpg)
+
+## My favorite programming qoute comes from Martin Fowler
+
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 
 
 
@@ -42,3 +46,9 @@ Hello, Github!
 *Python Tricks: The Book **A Buffet of Awesome Python Features***
 
 By **Dan Bader**
+
+## Things I need to complete for Lab 1
+
+- [x] Installing Visual Studio Code and Extensions
+- [x] (Re)Familiarizing Ourselves with Git
+- [x] Using Markdown
